@@ -6,6 +6,8 @@ public class DayTwo {
 		System.out.println("Jebasta paithiyam");
 		System.out.println("Rakesh Great boy");
 		System.out.println("Kumar");
+		
+		System.out.println("Jebasta");
 
 	}
 }
