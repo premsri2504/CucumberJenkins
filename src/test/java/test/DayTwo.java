@@ -5,5 +5,6 @@ public class DayTwo {
 	public static void main(String[] args) {
 		System.out.println("Jebasta paithiyam");
 		System.out.println("Rakesh worst boy");
+
 	}
 }
